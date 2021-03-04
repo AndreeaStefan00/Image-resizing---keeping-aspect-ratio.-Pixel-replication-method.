@@ -1,0 +1,6 @@
+package mainpack;
+
+public interface InputFileInterface {
+
+	public abstract BmpFile processInputFile(String fileName);
+}
